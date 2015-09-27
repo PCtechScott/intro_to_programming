@@ -1,0 +1,23 @@
+Exercise 1:
+
+1) false
+2) false
+3) false
+4) true
+5) true
+
+Yay, 5/5!
+
+
+Exercise 4:
+
+1) FALSE
+2) "Did you get it right?"
+3) "Alright now!"
+
+Yay again, 3/3!
+
+Exercise 6:
+
+Got the error because there was only 1 end statement and we needed two (one for the IF statement and one for the method definition. All we need to do, I think, is add another End.
+
