@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise16.rb
 
 a = ['white snow', 'winter wonderland', 'melting ice',

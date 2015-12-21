@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise11.rb
 
 # This is just asking me to give an opinion on my favorite Ruby API sources.

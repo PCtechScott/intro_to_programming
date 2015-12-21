@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise9.rb
 
 h = {a:1, b:2, c:3, d:4}

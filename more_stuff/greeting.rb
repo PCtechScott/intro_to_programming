@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # greeting.rb
 
 def greet(person)

@@ -1,3 +1,5 @@
+# Intro to programming
+# Hashes
 # exercise7.rb
 
 x = "hi there"

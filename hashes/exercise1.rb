@@ -1,3 +1,5 @@
+# Intro to programming
+# Hashes
 # exercise1.rb
 
 family = {  uncles: ["bob", "joe", "steve"],

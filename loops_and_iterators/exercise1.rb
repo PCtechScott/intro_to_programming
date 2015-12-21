@@ -1,4 +1,7 @@
-# Exercise 1
+# Intro to programming
+# Loops and Iterators
+# exercise1.rb
+
 # Guessing it's 6.
 x = [1, 2, 3, 4, 5]
 x.each do |a|

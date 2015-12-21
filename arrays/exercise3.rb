@@ -1,4 +1,6 @@
-# exercise3. rb
+# Intro to programming
+# Arrays
+# exercise3.rb
 
 arr = [["test", "hello", "world"], ["example", "mem"]]
 

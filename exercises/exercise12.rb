@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise12.rb
 
 contact_data = [["joe@email.com", "123 Main St.", "555-123-4567"],

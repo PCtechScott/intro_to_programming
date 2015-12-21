@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise7.rb
 
 # The major difference between an array and a hash is that a hash is a

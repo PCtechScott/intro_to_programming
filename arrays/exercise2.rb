@@ -1,4 +1,7 @@
+# Intro to programming
+# Arrays
 # exercise2.rb
+
 
 # 1 -
 arr = ["b", "a"]
@@ -10,7 +13,7 @@ arr.first.delete(arr.first.last)
 # exception that the first sub-array is just ["b"]
 
 arr = ["b", "a"]
-# same as line 5
+# same as line 7
 arr = arr.product([Array(1..3)])
 # arr is now [["b", [1, 2, 3]], ["a", [1, 2, 3]]]
 arr.first.delete(arr.first.last)

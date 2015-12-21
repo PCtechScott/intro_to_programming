@@ -1,3 +1,5 @@
+# Intro to programming
+# Arrays
 # exercise5.rb
 
 string = "Welcome to Tealeaf Academy!"

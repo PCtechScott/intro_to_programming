@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # exercise5.rb
 
 # The error occurs because the block is not correctly defined.

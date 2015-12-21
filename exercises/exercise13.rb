@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise13.rb
 
 contacts = {"Joe Smith"=>{:email=>"joe@email.com", :addr=>"123 Main St.", :phone=>"555-123-4567"},

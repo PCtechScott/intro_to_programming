@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # exercise2.rb
 
 def execute(&block)
@@ -16,4 +18,3 @@ execute { puts "Hello from inside the execute method!" }
 #
 # It actually returned Proc:0x00000001736a80@(irb):4
 # I pray that I understand why someday.
- 

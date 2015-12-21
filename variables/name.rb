@@ -1,3 +1,7 @@
+# Intro to programming
+# Variables
+# exercise1.rb
+
 # name.rb #
 # Ask user for their name, and print a greeting with it
 print "What is your first name, human? "

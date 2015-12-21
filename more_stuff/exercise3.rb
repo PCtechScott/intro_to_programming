@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # exercise3.rb
 
 # Exception Handling is code built into a programming language

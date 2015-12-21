@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise15.rb
 
 arr = ['snow', 'winter', 'ice', 'slippery', 'salted roads', 'white trees']

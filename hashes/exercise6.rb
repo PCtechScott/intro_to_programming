@@ -1,3 +1,5 @@
+# Intro to programming
+# Hashes
 # exercise6.rb
 
 # I have exactly zero idea how to do this one.

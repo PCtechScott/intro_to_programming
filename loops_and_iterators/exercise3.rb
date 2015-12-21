@@ -1,4 +1,7 @@
+# Intro to programming
+# Loops and Iterators
 # exercise3.rb
+
 
 movies = [ 'Iron Man', 'Iron Man 2', 'Avengers', 'Iron Man 3', 'Avengers: Age of Ultron']
 

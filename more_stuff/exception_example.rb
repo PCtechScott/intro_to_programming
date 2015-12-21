@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # exception_example.rb
 
 names = ['bob', 'joe', 'steve', nil, 'frank']

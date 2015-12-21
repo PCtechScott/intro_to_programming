@@ -1,3 +1,5 @@
+# Intro to programming
+# Arrays
 # exercise6.rb
 
 names = ['bob', 'joe', 'susan', 'margaret']

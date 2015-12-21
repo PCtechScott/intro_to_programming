@@ -1,3 +1,7 @@
+# Intro to programming
+# More_stuff
+# letter_test.rb
+
 def test(b)
   b.map {|letter| "I like the letter: #{letter}"}
 end

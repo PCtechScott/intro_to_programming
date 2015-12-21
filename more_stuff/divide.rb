@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # divide.rb
 
 def divide(number, divisor)

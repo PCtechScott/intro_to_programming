@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # greet.rb
 
 def space_out_letters(person)

@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise10.rb
 
 # hash value is an array

@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # exercise1.rb
 
 arr = ["laborotory", "experiment", "Pans Labyrinth", "elaborate", "polar bear"]

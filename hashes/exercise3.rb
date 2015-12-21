@@ -1,3 +1,5 @@
+# Intro to programming
+# Hashes
 # exercise3.rb
 
 person = {name: 'Scott', height: '5 ft 6 in', weight: '180 lbs', hair: 'shaved'}

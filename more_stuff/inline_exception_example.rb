@@ -1,3 +1,5 @@
+# Intro to programming
+# More_stuff
 # inline_exception_example.rb
 
 zero = 0

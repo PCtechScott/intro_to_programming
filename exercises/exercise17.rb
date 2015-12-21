@@ -1,3 +1,5 @@
+# Intro to programming
+# exercises
 # exercise17.rb
 
 hash1 = {shoes: "nike", "hat" => "adidas", :hoodie => true}
@@ -14,3 +16,5 @@ end
 # Let's run it and see.
 # Okay, apparently they ARE the same. I guess Ruby interprets them as
 # equivalent based on the contents and not the order. :/
+# That's right, now I remember reading that hashes don't care so much
+# about the order, but arrays do.
